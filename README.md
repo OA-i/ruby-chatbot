@@ -1,5 +1,5 @@
 # Ruby Chatbot
-Halo kemarin saya sudah membuat chatbot dengan bahasa python.<br />
+Kemarin saya sudah membuat chatbot dengan bahasa python.<br />
 Sekarang saya membuatnya dengan bahasa ruby.
 
 # Pemasangan
